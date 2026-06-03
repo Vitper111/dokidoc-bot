@@ -17,7 +17,7 @@ from telegram.ext import (
 load_dotenv()
 
 OPENAI_API_KEY = "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"
-BOT_TOKEN = "EQCLfvbkTrdUJ1wfyNI9uOdcK30z1wbWWX060mrXBNwp2Tse"
+BOT_TOKEN = "8222454597:AAFNm3ZRjtHheAkgXIM9EUAQRDaudvB21Ko"
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
